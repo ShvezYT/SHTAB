@@ -1,14 +1,29 @@
-[
-  {
-    "name": "Сергей",
-    "points": 1e+86
-  },
-  {
-    "name": "Мария",
-    "points": 18
-  },
-  {
-    "name": "Михаил",
-    "points": 15
-  }
-]
+{
+  "users": [
+    {
+      "name": "Сергей",
+      "points": 1e+86
+    },
+    {
+      "name": "Мария",
+      "points": 18
+    },
+    {
+      "name": "Михаил",
+      "points": 15
+    }
+  ],
+  "orders": [
+    {
+      "id": 1783498028112,
+      "userName": "Сергей",
+      "items": [
+        {
+          "name": "Сухарики",
+          "price": 15
+        }
+      ],
+      "status": "pending"
+    }
+  ]
+}
