@@ -35,6 +35,17 @@
         }
       ],
       "status": "pending"
+    },
+    {
+      "id": 1783498034656,
+      "userName": "Сергей",
+      "items": [
+        {
+          "name": "Сухарики",
+          "price": 15
+        }
+      ],
+      "status": "pending"
     }
   ]
 }
