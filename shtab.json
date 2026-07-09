@@ -19,6 +19,11 @@
       "name": "Тимофей",
       "password": "1",
       "points": 10
+    },
+    {
+      "name": "Илья",
+      "password": "1",
+      "points": 12
     }
   ],
   "products": [],
