@@ -224,12 +224,12 @@
     ],
     "stats": {
       "totalCorrect": 9,
-      "totalWrong": 4,
-      "attempts": 13,
+      "totalWrong": 5,
+      "attempts": 14,
       "streak": 0,
       "bestStreak": 7,
       "stars": 1,
-      "totalTimeMs": 582070,
+      "totalTimeMs": 584614,
       "history": [
         {
           "equation": "6 − 4 = ?",
@@ -334,6 +334,14 @@
           "isCorrect": false,
           "timeMs": 1381,
           "timestamp": "2026-07-09T10:58:10.257Z"
+        },
+        {
+          "equation": "? − 7 = 12",
+          "userAnswer": 2424,
+          "correctAnswer": 19,
+          "isCorrect": false,
+          "timeMs": 2544,
+          "timestamp": "2026-07-09T10:58:13.966Z"
         }
       ]
     },
