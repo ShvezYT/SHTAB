@@ -23,7 +23,9 @@
           "price": 15
         }
       ],
-      "status": "pending"
+      "status": "completed",
+      "trackingNumber": "",
+      "updatedAt": "2026-07-09T12:38:15.759Z"
     },
     {
       "id": 1783498032840,
