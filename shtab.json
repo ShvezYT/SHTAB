@@ -117,10 +117,10 @@
           "price": 10
         }
       ],
-      "status": "paid",
+      "status": "delivery",
       "trackingNumber": "00003",
       "createdAt": "2026-07-09T13:57:31.552Z",
-      "updatedAt": "2026-07-09T13:57:31.552Z"
+      "updatedAt": "2026-07-09T13:59:40.245Z"
     }
   ],
   "lastTrackingNumber": 3
