@@ -224,12 +224,12 @@
     ],
     "stats": {
       "totalCorrect": 9,
-      "totalWrong": 7,
-      "attempts": 16,
+      "totalWrong": 8,
+      "attempts": 17,
       "streak": 0,
       "bestStreak": 7,
       "stars": 1,
-      "totalTimeMs": 589108,
+      "totalTimeMs": 593316,
       "history": [
         {
           "equation": "6 − 4 = ?",
@@ -358,6 +358,14 @@
           "isCorrect": false,
           "timeMs": 2500,
           "timestamp": "2026-07-09T10:58:21.889Z"
+        },
+        {
+          "equation": "? + 3 = 8",
+          "userAnswer": 45454,
+          "correctAnswer": 5,
+          "isCorrect": false,
+          "timeMs": 4208,
+          "timestamp": "2026-07-09T10:58:27.335Z"
         }
       ]
     },
