@@ -223,13 +223,13 @@
       }
     ],
     "stats": {
-      "totalCorrect": 4,
+      "totalCorrect": 5,
       "totalWrong": 0,
-      "attempts": 4,
-      "streak": 4,
-      "bestStreak": 4,
-      "stars": 0,
-      "totalTimeMs": 131761,
+      "attempts": 5,
+      "streak": 5,
+      "bestStreak": 5,
+      "stars": 1,
+      "totalTimeMs": 193977,
       "history": [
         {
           "equation": "? − 7 = 9",
@@ -262,6 +262,14 @@
           "isCorrect": true,
           "timeMs": 18924,
           "timestamp": "2026-07-09T14:18:36.147Z"
+        },
+        {
+          "equation": "9 + ? = 16",
+          "userAnswer": 7,
+          "correctAnswer": 7,
+          "isCorrect": true,
+          "timeMs": 62216,
+          "timestamp": "2026-07-09T14:19:40.563Z"
         }
       ]
     },
