@@ -14,6 +14,11 @@
       "name": "Михаил",
       "points": 15,
       "password": ""
+    },
+    {
+      "name": "Тимофей",
+      "password": "123",
+      "points": 10
     }
   ],
   "orders": [
