@@ -125,5 +125,10 @@
   ],
   "lastTrackingNumber": 3,
   "adminPassword": "31052015Ivan)",
-  "couriers": []
+  "couriers": [
+    {
+      "name": "Тимофей",
+      "password": "0000"
+    }
+  ]
 }
