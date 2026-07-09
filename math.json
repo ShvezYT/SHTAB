@@ -224,12 +224,12 @@
     ],
     "stats": {
       "totalCorrect": 9,
-      "totalWrong": 1,
-      "attempts": 10,
-      "streak": 7,
+      "totalWrong": 4,
+      "attempts": 13,
+      "streak": 0,
       "bestStreak": 7,
       "stars": 1,
-      "totalTimeMs": 572706,
+      "totalTimeMs": 582070,
       "history": [
         {
           "equation": "6 − 4 = ?",
@@ -310,6 +310,30 @@
           "isCorrect": true,
           "timeMs": 5336,
           "timestamp": "2026-07-09T10:57:56.312Z"
+        },
+        {
+          "equation": "20 − ? = 18",
+          "userAnswer": 13314546,
+          "correctAnswer": 2,
+          "isCorrect": false,
+          "timeMs": 6547,
+          "timestamp": "2026-07-09T10:58:05.183Z"
+        },
+        {
+          "equation": "15 − 9 = ?",
+          "userAnswer": 424,
+          "correctAnswer": 6,
+          "isCorrect": false,
+          "timeMs": 1436,
+          "timestamp": "2026-07-09T10:58:08.106Z"
+        },
+        {
+          "equation": "3 + ? = 16",
+          "userAnswer": 4,
+          "correctAnswer": 13,
+          "isCorrect": false,
+          "timeMs": 1381,
+          "timestamp": "2026-07-09T10:58:10.257Z"
         }
       ]
     },
