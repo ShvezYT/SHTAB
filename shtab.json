@@ -8,7 +8,7 @@
     {
       "name": "Мария",
       "password": "5555",
-      "points": 28
+      "points": 18
     },
     {
       "name": "Михаил",
@@ -91,7 +91,22 @@
       "trackingNumber": "00001",
       "createdAt": "2026-07-09T13:51:36.594Z",
       "updatedAt": "2026-07-09T13:52:37.233Z"
+    },
+    {
+      "id": 1783605442766,
+      "userName": "Мария",
+      "items": [
+        {
+          "productId": 1783602942416,
+          "name": "Кислые соломинки",
+          "price": 10
+        }
+      ],
+      "status": "paid",
+      "trackingNumber": "00002",
+      "createdAt": "2026-07-09T13:57:22.766Z",
+      "updatedAt": "2026-07-09T13:57:22.766Z"
     }
   ],
-  "lastTrackingNumber": 1
+  "lastTrackingNumber": 2
 }
