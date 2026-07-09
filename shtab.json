@@ -9,6 +9,11 @@
       "name": "Мария",
       "password": "1",
       "points": 16
+    },
+    {
+      "name": "Махаил",
+      "password": "1",
+      "points": 15
     }
   ],
   "products": [],
