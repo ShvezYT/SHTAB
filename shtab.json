@@ -142,11 +142,11 @@
           "price": 140
         }
       ],
-      "status": "paid",
+      "status": "delivery",
       "trackingNumber": "00004",
       "notes": "Вкус: сыр",
       "createdAt": "2026-07-09T17:06:56.032Z",
-      "updatedAt": "2026-07-09T17:06:56.316Z"
+      "updatedAt": "2026-07-09T17:07:40.954Z"
     }
   ],
   "lastTrackingNumber": 4,
