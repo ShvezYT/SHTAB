@@ -8,7 +8,7 @@
     {
       "name": "Мария",
       "password": "5555",
-      "points": 68
+      "points": 28
     },
     {
       "name": "Михаил",
@@ -76,6 +76,22 @@
       "emoji": "🍱"
     }
   ],
-  "orders": [],
-  "lastTrackingNumber": 0
+  "orders": [
+    {
+      "id": 1783605096594,
+      "userName": "Мария",
+      "items": [
+        {
+          "productId": 1783602719854,
+          "name": "Сухарики КИРИЕШКИ (мал.)",
+          "price": 40
+        }
+      ],
+      "status": "paid",
+      "trackingNumber": "00001",
+      "createdAt": "2026-07-09T13:51:36.594Z",
+      "updatedAt": "2026-07-09T13:51:36.596Z"
+    }
+  ],
+  "lastTrackingNumber": 1
 }
