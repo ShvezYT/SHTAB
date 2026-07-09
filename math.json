@@ -224,12 +224,12 @@
     ],
     "stats": {
       "totalCorrect": 9,
-      "totalWrong": 8,
-      "attempts": 17,
+      "totalWrong": 9,
+      "attempts": 18,
       "streak": 0,
       "bestStreak": 7,
       "stars": 1,
-      "totalTimeMs": 593316,
+      "totalTimeMs": 595045,
       "history": [
         {
           "equation": "6 − 4 = ?",
@@ -366,6 +366,14 @@
           "isCorrect": false,
           "timeMs": 4208,
           "timestamp": "2026-07-09T10:58:27.335Z"
+        },
+        {
+          "equation": "18 − 16 = ?",
+          "userAnswer": 11212,
+          "correctAnswer": 2,
+          "isCorrect": false,
+          "timeMs": 1729,
+          "timestamp": "2026-07-09T10:58:30.360Z"
         }
       ]
     },
