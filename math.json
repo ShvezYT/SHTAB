@@ -224,12 +224,12 @@
     ],
     "stats": {
       "totalCorrect": 9,
-      "totalWrong": 5,
-      "attempts": 14,
+      "totalWrong": 6,
+      "attempts": 15,
       "streak": 0,
       "bestStreak": 7,
       "stars": 1,
-      "totalTimeMs": 584614,
+      "totalTimeMs": 586608,
       "history": [
         {
           "equation": "6 − 4 = ?",
@@ -342,6 +342,14 @@
           "isCorrect": false,
           "timeMs": 2544,
           "timestamp": "2026-07-09T10:58:13.966Z"
+        },
+        {
+          "equation": "15 − ? = 4",
+          "userAnswer": 67,
+          "correctAnswer": 11,
+          "isCorrect": false,
+          "timeMs": 1994,
+          "timestamp": "2026-07-09T10:58:17.512Z"
         }
       ]
     },
