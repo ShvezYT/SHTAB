@@ -223,14 +223,23 @@
       }
     ],
     "stats": {
-      "totalCorrect": 0,
+      "totalCorrect": 1,
       "totalWrong": 0,
-      "attempts": 0,
-      "streak": 0,
-      "bestStreak": 0,
+      "attempts": 1,
+      "streak": 1,
+      "bestStreak": 1,
       "stars": 0,
-      "totalTimeMs": 0,
-      "history": []
+      "totalTimeMs": 63468,
+      "history": [
+        {
+          "equation": "? − 7 = 9",
+          "userAnswer": 16,
+          "correctAnswer": 16,
+          "isCorrect": true,
+          "timeMs": 63468,
+          "timestamp": "2026-07-09T14:17:16.385Z"
+        }
+      ]
     },
     "completed": false
   }
