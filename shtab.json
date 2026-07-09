@@ -45,7 +45,10 @@
           "price": 15
         }
       ],
-      "status": "pending"
+      "status": "created",
+      "trackingNumber": "1",
+      "updatedAt": "2026-07-09T12:37:53.560Z"
     }
-  ]
+  ],
+  "products": []
 }
