@@ -1,1 +1,12 @@
-
+{
+  "users": [
+    {
+      "name": "Сергей",
+      "password": "1",
+      "points": 19
+    }
+  ],
+  "products": [],
+  "orders": [],
+  "lastTrackingNumber": 0
+}
