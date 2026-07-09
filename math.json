@@ -1,1 +1,246 @@
-
+{
+  "2026-07-09": {
+    "equations": [
+      {
+        "type": "sub",
+        "a": 6,
+        "b": 4,
+        "result": 2,
+        "unknown": "result",
+        "answer": 2,
+        "displayA": 6,
+        "displayB": 4,
+        "displayResult": "?"
+      },
+      {
+        "type": "sub",
+        "a": 19,
+        "b": 16,
+        "result": 3,
+        "unknown": "second",
+        "answer": 16,
+        "displayA": 19,
+        "displayB": "?",
+        "displayResult": 3
+      },
+      {
+        "type": "add",
+        "a": 7,
+        "b": 11,
+        "result": 18,
+        "unknown": "result",
+        "answer": 18,
+        "displayA": 7,
+        "displayB": 11,
+        "displayResult": "?"
+      },
+      {
+        "type": "add",
+        "a": 1,
+        "b": 9,
+        "result": 10,
+        "unknown": "result",
+        "answer": 10,
+        "displayA": 1,
+        "displayB": 9,
+        "displayResult": "?"
+      },
+      {
+        "type": "sub",
+        "a": 8,
+        "b": 2,
+        "result": 6,
+        "unknown": "result",
+        "answer": 6,
+        "displayA": 8,
+        "displayB": 2,
+        "displayResult": "?"
+      },
+      {
+        "type": "add",
+        "a": 2,
+        "b": 1,
+        "result": 3,
+        "unknown": "second",
+        "answer": 1,
+        "displayA": 2,
+        "displayB": "?",
+        "displayResult": 3
+      },
+      {
+        "type": "sub",
+        "a": 3,
+        "b": 0,
+        "result": 3,
+        "unknown": "result",
+        "answer": 3,
+        "displayA": 3,
+        "displayB": 0,
+        "displayResult": "?"
+      },
+      {
+        "type": "sub",
+        "a": 7,
+        "b": 0,
+        "result": 7,
+        "unknown": "first",
+        "answer": 7,
+        "displayA": "?",
+        "displayB": 0,
+        "displayResult": 7
+      },
+      {
+        "type": "add",
+        "a": 4,
+        "b": 6,
+        "result": 10,
+        "unknown": "result",
+        "answer": 10,
+        "displayA": 4,
+        "displayB": 6,
+        "displayResult": "?"
+      },
+      {
+        "type": "add",
+        "a": 1,
+        "b": 11,
+        "result": 12,
+        "unknown": "first",
+        "answer": 1,
+        "displayA": "?",
+        "displayB": 11,
+        "displayResult": 12
+      },
+      {
+        "type": "sub",
+        "a": 20,
+        "b": 2,
+        "result": 18,
+        "unknown": "second",
+        "answer": 2,
+        "displayA": 20,
+        "displayB": "?",
+        "displayResult": 18
+      },
+      {
+        "type": "sub",
+        "a": 15,
+        "b": 9,
+        "result": 6,
+        "unknown": "result",
+        "answer": 6,
+        "displayA": 15,
+        "displayB": 9,
+        "displayResult": "?"
+      },
+      {
+        "type": "add",
+        "a": 3,
+        "b": 13,
+        "result": 16,
+        "unknown": "second",
+        "answer": 13,
+        "displayA": 3,
+        "displayB": "?",
+        "displayResult": 16
+      },
+      {
+        "type": "sub",
+        "a": 19,
+        "b": 7,
+        "result": 12,
+        "unknown": "first",
+        "answer": 19,
+        "displayA": "?",
+        "displayB": 7,
+        "displayResult": 12
+      },
+      {
+        "type": "sub",
+        "a": 15,
+        "b": 11,
+        "result": 4,
+        "unknown": "second",
+        "answer": 11,
+        "displayA": 15,
+        "displayB": "?",
+        "displayResult": 4
+      },
+      {
+        "type": "add",
+        "a": 2,
+        "b": 0,
+        "result": 2,
+        "unknown": "second",
+        "answer": 0,
+        "displayA": 2,
+        "displayB": "?",
+        "displayResult": 2
+      },
+      {
+        "type": "add",
+        "a": 5,
+        "b": 3,
+        "result": 8,
+        "unknown": "first",
+        "answer": 5,
+        "displayA": "?",
+        "displayB": 3,
+        "displayResult": 8
+      },
+      {
+        "type": "sub",
+        "a": 18,
+        "b": 16,
+        "result": 2,
+        "unknown": "result",
+        "answer": 2,
+        "displayA": 18,
+        "displayB": 16,
+        "displayResult": "?"
+      },
+      {
+        "type": "add",
+        "a": 1,
+        "b": 12,
+        "result": 13,
+        "unknown": "first",
+        "answer": 1,
+        "displayA": "?",
+        "displayB": 12,
+        "displayResult": 13
+      },
+      {
+        "type": "sub",
+        "a": 7,
+        "b": 0,
+        "result": 7,
+        "unknown": "result",
+        "answer": 7,
+        "displayA": 7,
+        "displayB": 0,
+        "displayResult": "?"
+      }
+    ],
+    "stats": {
+      "totalCorrect": 1,
+      "totalWrong": 0,
+      "attempts": 1,
+      "streak": 1,
+      "bestStreak": 1,
+      "stars": 0,
+      "totalTimeMs": 516507,
+      "history": [
+        {
+          "equation": "6 − 4 = ?",
+          "userAnswer": 2,
+          "correctAnswer": 2,
+          "isCorrect": true,
+          "timeMs": 516507,
+          "timestamp": "2026-07-09T10:56:32.101Z"
+        }
+      ]
+    },
+    "completed": false
+  }
+}
