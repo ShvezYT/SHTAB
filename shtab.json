@@ -2,15 +2,18 @@
   "users": [
     {
       "name": "Сергей",
-      "points": 1e+86
+      "points": 19,
+      "password": ""
     },
     {
       "name": "Мария",
-      "points": 18
+      "points": 18,
+      "password": ""
     },
     {
       "name": "Михаил",
-      "points": 15
+      "points": 15,
+      "password": ""
     }
   ],
   "orders": [
@@ -54,5 +57,6 @@
       "updatedAt": "2026-07-09T12:38:04.047Z"
     }
   ],
-  "products": []
+  "products": [],
+  "lastTrackingNumber": 0
 }
