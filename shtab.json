@@ -34,6 +34,11 @@
       "name": "Админ",
       "points": 1e+250,
       "password": "31052015Ivan)"
+    },
+    {
+      "name": "Ксения",
+      "points": 15,
+      "password": "1"
     }
   ],
   "products": [
