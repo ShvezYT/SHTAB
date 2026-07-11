@@ -3,7 +3,7 @@
     {
       "name": "Сергей",
       "password": "sergei",
-      "points": 19
+      "points": 9
     },
     {
       "name": "Мария",
@@ -152,9 +152,25 @@
       "notes": "Вкус: сыр",
       "createdAt": "2026-07-09T17:06:56.032Z",
       "updatedAt": "2026-07-09T17:08:28.578Z"
+    },
+    {
+      "id": 1783768519819,
+      "userName": "Сергей",
+      "items": [
+        {
+          "productId": 1783602942416,
+          "name": "Кислые соломинки",
+          "price": 10
+        }
+      ],
+      "status": "paid",
+      "trackingNumber": "00005",
+      "notes": "",
+      "createdAt": "2026-07-11T11:15:19.820Z",
+      "updatedAt": "2026-07-11T11:15:19.831Z"
     }
   ],
-  "lastTrackingNumber": 4,
+  "lastTrackingNumber": 5,
   "adminPassword": "31052015Ivan)",
   "couriers": [
     {
