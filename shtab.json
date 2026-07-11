@@ -13,7 +13,7 @@
     {
       "name": "Михаил",
       "password": "112",
-      "points": 15
+      "points": 5
     },
     {
       "name": "Тимофей",
@@ -168,9 +168,25 @@
       "notes": "",
       "createdAt": "2026-07-11T11:15:19.820Z",
       "updatedAt": "2026-07-11T11:15:19.831Z"
+    },
+    {
+      "id": 1783768711655,
+      "userName": "Михаил",
+      "items": [
+        {
+          "productId": 1783602942416,
+          "name": "Кислые соломинки",
+          "price": 10
+        }
+      ],
+      "status": "paid",
+      "trackingNumber": "00006",
+      "notes": "",
+      "createdAt": "2026-07-11T11:18:31.656Z",
+      "updatedAt": "2026-07-11T11:18:31.685Z"
     }
   ],
-  "lastTrackingNumber": 5,
+  "lastTrackingNumber": 6,
   "adminPassword": "31052015Ivan)",
   "couriers": [
     {
