@@ -132,10 +132,10 @@
           "price": 10
         }
       ],
-      "status": "courier_going",
+      "status": "courier_delivered",
       "trackingNumber": "00003",
       "createdAt": "2026-07-09T13:57:31.552Z",
-      "updatedAt": "2026-07-23T09:48:37.163Z"
+      "updatedAt": "2026-07-23T09:58:09.380Z"
     },
     {
       "id": 1783616816032,
@@ -163,11 +163,11 @@
           "price": 10
         }
       ],
-      "status": "courier_going",
+      "status": "courier_delivered",
       "trackingNumber": "00005",
       "notes": "",
       "createdAt": "2026-07-11T11:15:19.820Z",
-      "updatedAt": "2026-07-23T09:48:41.600Z"
+      "updatedAt": "2026-07-23T09:58:11.850Z"
     },
     {
       "id": 1783768711655,
