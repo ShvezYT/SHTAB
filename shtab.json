@@ -117,10 +117,10 @@
           "price": 10
         }
       ],
-      "status": "courier_going",
+      "status": "courier_delivered",
       "trackingNumber": "00002",
       "createdAt": "2026-07-09T13:57:22.766Z",
-      "updatedAt": "2026-07-23T09:48:35.110Z"
+      "updatedAt": "2026-07-23T09:58:08.735Z"
     },
     {
       "id": 1783605451552,
