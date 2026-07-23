@@ -179,11 +179,11 @@
           "price": 10
         }
       ],
-      "status": "delivery",
+      "status": "courier_taken",
       "trackingNumber": "00006",
       "notes": "",
       "createdAt": "2026-07-11T11:18:31.656Z",
-      "updatedAt": "2026-07-23T09:29:32.223Z"
+      "updatedAt": "2026-07-23T09:34:03.552Z"
     }
   ],
   "lastTrackingNumber": 6,
