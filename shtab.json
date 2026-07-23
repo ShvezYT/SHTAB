@@ -163,11 +163,11 @@
           "price": 10
         }
       ],
-      "status": "paid",
+      "status": "delivery",
       "trackingNumber": "00005",
       "notes": "",
       "createdAt": "2026-07-11T11:15:19.820Z",
-      "updatedAt": "2026-07-11T11:15:19.831Z"
+      "updatedAt": "2026-07-23T09:29:12.995Z"
     },
     {
       "id": 1783768711655,
@@ -183,7 +183,7 @@
       "trackingNumber": "00006",
       "notes": "",
       "createdAt": "2026-07-11T11:18:31.656Z",
-      "updatedAt": "2026-07-23T09:29:12.197Z"
+      "updatedAt": "2026-07-23T09:29:13.614Z"
     }
   ],
   "lastTrackingNumber": 6,
